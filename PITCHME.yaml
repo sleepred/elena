@@ -1,0 +1,14 @@
+# theme
+theme : sky
+
+
+# logo icon
+logo : logo.png
+
+
+# footer
+footnote : "© 2018 lanalab Inc."
+
+
+# set slide page
+slide-number: true
