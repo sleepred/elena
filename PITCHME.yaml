@@ -1,14 +1,28 @@
 # theme
 theme : sky
 
-
 # logo icon
 logo : logo.png
 
-
 # footer
-footnote : "© 2018 lanalab Inc."
-
+footnote : "© 2018 lenalab Inc."
 
 # set slide page
 slide-number: true
+
+# code syntax highlight
+highlight : monokai
+
+# slide auto play 
+autoslide : 5000
+
+# slide loop
+loop : true
+
+
+# transition
+transition : fade
+
+
+# chart
+charts : true
